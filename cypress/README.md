@@ -1,0 +1,1 @@
+Este projeto é uma automação de testes usando Cypress para validar funcionalidades da Home Page , Busca de produtos e do Carrinho de compras no site da Amazon. O objetivo é garantir que as funcionalidades da HomePage da Busca e da Adição ao Carrinho estejam funcionando corretamente.
